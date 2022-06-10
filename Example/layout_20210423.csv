@@ -1,0 +1,25 @@
+Well,Cell,Treatment
+A1,PNT1A,Control
+A2,PNT1A,Control
+A3,PNT1A,Methacycline 5 uM
+A4,PC3,Control
+A5,PC3,Control
+A6,PC3,Methacycline 5 uM
+B1,PNT1A,TGF-B 1 ng/mL
+B2,PNT1A,TGF-B 1 ng/mL
+B3,PNT1A,Methacycline 10 uM
+B4,PC3,TGF-B 1 ng/mL
+B5,PC3,TGF-B 1 ng/mL
+B6,PC3,Methacycline 10 uM
+C1,PNT1A,TGF-B 5 ng/mL
+C2,PNT1A,TGF-B 5 ng/mL
+C3,PNT1A,Methacycline 20 uM
+C4,PC3,TGF-B 5 ng/mL
+C5,PC3,TGF-B 5 ng/mL
+C6,PC3,Methacycline 20 uM
+D1,PNT1A,TGF-B 10 ng/mL
+D2,PNT1A,TGF-B 10 ng/mL
+D3,PNT1A,Methacycline 20 uM + TGF-B 10 ng/mL
+D4,PC3,TGF-B 10 ng/mL
+D5,PC3,TGF-B 10 ng/mL
+D6,PC3,Methacycline 20 uM + TGF-B 10 ng/mL
