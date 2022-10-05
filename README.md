@@ -15,11 +15,11 @@ Watch a [video](https://www.youtube.com/watch?v=dUlg_DkeiQg) on how to analyze y
 Requirements are
 - **Anaconda or miniconda**: Install anaconda or miniconda from their website, so you have Python 3 and Jupyter notebook already configured.
 - **Layout.csv**: Have a layout csv file with columns as: Wells, Treatments, and Cell.
-- **<Well>_data.csv**: Have output files from PyScratch, with your <Well> name (same as you have on Layout.csv)
+- **Well_data.csv**: Have output files from PyScratch, with your Well name (same as you have on Layout.csv)
 
 ## 4. Example folder
 
-On Example folder, you find many <Well>_data.csv files, a layout file, and a test_fig.tif required to measure your image's specifications. 
+On Example folder, you find many Well_data.csv files, a layout file, and a test_fig.tif required to measure your image's specifications. 
 On Example/output, you have the plots for each well after analysis, and a Results.csv contaning the velocity's measurements. 
 
 # Cite
